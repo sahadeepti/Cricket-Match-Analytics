@@ -1,18 +1,16 @@
-# 🏏 Cricket Performance Intelligence System
+# 🏏 Cricket Match Performance Analysis System
 
 ### A Data Analytics Approach to Player, Team and Match Performance
 
 ## 1. Project Overview
 
-The **Cricket Performance Intelligence System** is a Python-based data analytics project developed to analyze T20 cricket performance using historical cricket datasets.
+The **Cricket Match Performance Analysis System** is a Python-based data analytics project developed to analyze T20 cricket performance using historical cricket datasets.
 
 The system processes batting, bowling, ball-by-ball and match-result data to generate meaningful insights about individual players, teams and matches.
 
 It applies statistical analysis, data aggregation, feature engineering, percentile-based ranking and data visualization to evaluate cricket performance.
 
 The project also provides an interactive web dashboard developed using Streamlit, allowing users to explore analytical results through tables, charts and player rankings.
-
-The primary focus of this project is **data analysis and performance evaluation**, rather than predictive machine learning.
 
 ## 2. Project Objectives
 
